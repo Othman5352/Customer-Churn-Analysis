@@ -6,7 +6,9 @@ This project is a Power BI report that analyzes Telecom Customer data. The conta
 
 ## Findings
 <img src="https://github.com/Othman5352/Customer-Churn-Dashboard/blob/master/Screenshots/Screenshot%202023-09-23%20200805.png">
-
+```md
+    ![alt text](Screenshots/Screenshot 2023-09-23 200805.png)
+    ```
 • There were 7032 customers. 1869 churned. The churn rate was 26.58%.
 
 • 13.35% and 13.23% of customers who left the company were women and men 
