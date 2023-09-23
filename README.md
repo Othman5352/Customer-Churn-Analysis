@@ -5,10 +5,8 @@
 This project is a Power BI report that analyzes Telecom Customer data. The contain information about customers, Customer accounts, and services. The goal of this project is getting insight from customers who is churn. 
 
 ## Findings
-<img src="https://github.com/Othman5352/Customer-Churn-Dashboard/blob/master/Screenshots/Screenshot%202023-09-23%20200805.png">
-```md
-    ![Screenshots](Screenshots/Screenshot 2023-09-23 200805.png)
-    ```
+<img src="https://github.com/Othman5352/Customer-Churn-Analysis/blob/master/Screenshots/Screenshot%202023-09-23%20200847.png">
+
 • There were 7032 customers. 1869 churned. The churn rate was 26.58%.
 
 • 13.35% and 13.23% of customers who left the company were women and men 
@@ -22,7 +20,7 @@ attributed to the churn rate being higher among the younger customers.
 
 • Of the customers who left, 21.94% had no dependents.
 
-<img src="https://github.com/Othman5352/Customer-Churn-Dashboard/blob/master/Screenshots/Screenshot%202023-09-23%20200833.png">
+<img src="https://github.com/Othman5352/Customer-Churn-Analysis/blob/master/Screenshots/Screenshot%202023-09-23%20200833.png">
 
 • 13.77% of customer churn were customers who had been with the company for less than 
 10 months (new customers).
@@ -40,7 +38,7 @@ contracts but their total charges yearly were much lower. On the other hand, the
 monthly charges were lowest for customers with two year contracts but their total charges 
 were much higher.
 
-<img src="https://github.com/Othman5352/Customer-Churn-Dashboard/blob/master/Screenshots/Screenshot%202023-09-23%20200847.png">
+<img src="https://github.com/Othman5352/Customer-Churn-Analysis/blob/master/Screenshots/Screenshot%202023-09-23%20200847.png">
 
 • Out of the customers who left, 13.38% had phone service and multiple lines and 13.37% 
 had phone service but didn’t have multiple lines. They still left anyway. This suggests 
