@@ -21,8 +21,10 @@ churn rate is higher among the younger population.
 attributed to the churn rate being higher among the younger customers.
 
 • Of the customers who left, 21.94% had no dependents.
+
 <img src="https://github.com/Othman5352/Customer-Churn-Dashboard/blob/master/Screenshots/Screenshot%202023-09-23%20200833.png
 ">
+
 • 13.77% of customer churn were customers who had been with the company for less than 
 10 months (new customers).
 
@@ -38,7 +40,9 @@ type.
 contracts but their total charges yearly were much lower. On the other hand, the average 
 monthly charges were lowest for customers with two year contracts but their total charges 
 were much higher.
+
 <img src="https://github.com/Othman5352/Customer-Churn-Dashboard/blob/master/Screenshots/Screenshot%202023-09-23%20200847.png">
+
 • Out of the customers who left, 13.38% had phone service and multiple lines and 13.37% 
 had phone service but didn’t have multiple lines. They still left anyway. This suggests 
 that multiple lines and phone service were not key influencers of customer churn.
