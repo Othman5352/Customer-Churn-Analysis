@@ -6,24 +6,21 @@ This project is a Power BI report that analyzes Telecom Customer data. The conta
 
 ## Findings
 <img src="https://github.com/Othman5352/Customer-Churn-Dashboard/blob/master/Screenshots/Screenshot%202023-09-23%20200805.png">
-• There were 7032 customers. 1869 churned. The churn rate was 26.58%.
 
+• There were 7032 customers. 1869 churned. The churn rate was 26.58%.
 
 • 13.35% and 13.23% of customers who left the company were women and men 
 respectively.
 
-
 • 19.81% of customers who left the company are not senior citizens. This shows that the 
 churn rate is higher among the younger population.
-
 
 • On partner analysis, 17.06% of those who left had no partners. Again, this can be 
 attributed to the churn rate being higher among the younger customers.
 
 • Of the customers who left, 21.94% had no dependents.
 
-<img src="https://github.com/Othman5352/Customer-Churn-Dashboard/blob/master/Screenshots/Screenshot%202023-09-23%20200833.png
-">
+<img src="https://github.com/Othman5352/Customer-Churn-Dashboard/blob/master/Screenshots/Screenshot%202023-09-23%20200833.png">
 
 • 13.77% of customer churn were customers who had been with the company for less than 
 10 months (new customers).
